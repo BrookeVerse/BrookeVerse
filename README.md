@@ -1,4 +1,5 @@
-Hi there 👋
+Hi there 👋, my name is Brooke. Launching through the world of coding. I have used JavaScript and Java as code languages, and using React and Spring as frameworks.
+I have also used Firebase as a cloud backend for databases and Auth. During my journey I have created many web pages, Api's and databases. 
 
 
 - 🔭 I’m currently working on a weather app, that can use your current location.
